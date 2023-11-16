@@ -28,6 +28,11 @@ Extra large screens, TV – 1201px, and more.
     div#formulario h1{
         font-size: 2em;
     }
+    form > .campo > span{
+      
+        font-size: 2em;
+    }
+  
 }
 @media screen and (min-width:1025px){
     body{
